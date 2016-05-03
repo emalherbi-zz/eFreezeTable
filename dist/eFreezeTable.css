@@ -4,12 +4,12 @@
  * Licensed under MIT (http://en.wikipedia.org/wiki/MIT_License)
  */
 .efreezetable-container {
-  width: 100%;
   margin: auto;
+  width: 100%;
 }
 .efreezetable-fixed {
-  background-color: #FFF;
-  border: none;
+  background-color: #fff;
+  border: medium none;
   color: #000;
   display: none;
   position: fixed;
